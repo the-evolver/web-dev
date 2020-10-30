@@ -2,7 +2,7 @@
 # https-github.com-the-evolver
 
 
-![Github stats](https://github.com/the-evolver/web-dev/)
+![Github stats](https://github.com/the-evolver/web-dev/edit)
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=the-evolver&layout=compact))
