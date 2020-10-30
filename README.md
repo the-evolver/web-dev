@@ -5,4 +5,4 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=the-evolver&layout=compact))
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=the-evolver&repo=web-dev)]https://github.com/the-evolver/web-dev
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=the-evolver&repo=https://github.com/the-evolver/web-dev)](https://github.com/the-evolver/web-dev)
